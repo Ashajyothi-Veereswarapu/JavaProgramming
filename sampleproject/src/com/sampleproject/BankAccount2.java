@@ -6,7 +6,7 @@ public class BankAccount2 {
 	long mobilenumber;
 	float balance;
     void details(String m,long n,float o) {
-    	account_number=account_number+1;
+    	++account_number;
     	name=m;
     	mobilenumber=n;
     	balance=o;

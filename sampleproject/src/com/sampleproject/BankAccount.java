@@ -28,12 +28,6 @@ public class BankAccount {
 		System.out.println(holder_name);
 		System.out.println(mobilenumber);
 	}
-	
-	
-	
-	
-
-
 	public static void main(String[] args) {
 		 details();
 
